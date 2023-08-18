@@ -23,6 +23,14 @@ Hi I am a Software Developer/Tech Enthusiast from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=News-Daily-React&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
 </a>
 
+<a href="https://github.com/vaibhavj-11/Weather-app-using-html-css.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=Weather-app-using-html-css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+</a>
+
+<a href="https://github.com/vaibhavj-11/Stock_Market_future_predicton_model.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=Stock_Market_future_predicton_model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+</a>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavj-11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
