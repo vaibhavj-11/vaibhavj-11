@@ -13,7 +13,14 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 ![](https://github-readme-stats.vercel-sigma-five.vercel.app/api/top-langs/?username=vaibhavj-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavj-11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-##  💻 Projects:
+##  💻 Projects
+<a href="https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=Stone-Paper-Scissor-Game-OpenCv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+</a>
+
+<a href="https://github.com/vaibhavj-11/News-Daily-React.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=News-Daily-React&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+</a>
 
 
 ## 🏆 GitHub Trophies
