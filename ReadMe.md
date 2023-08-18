@@ -13,6 +13,9 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 ![](https://github-readme-stats.vercel-sigma-five.vercel.app/api/top-langs/?username=vaibhavj-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavj-11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+##  💻 Projects:
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavj-11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
