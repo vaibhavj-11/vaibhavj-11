@@ -15,7 +15,7 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 
 ##  💻 Projects
 <a href="https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270"&description=Fun OpenCV project that uses hand tracking module to implement the classic Rock-Paper-Scissor game. />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"&description=Fun OpenCV project that uses hand tracking module to implement the classic Rock-Paper-Scissor game. width="500" height="270" />
 </a>
 
 <a href="https://github.com/vaibhavj-11/News-Daily-React.git">
