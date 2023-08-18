@@ -14,9 +14,10 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavj-11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ##  💻 Projects
-<a href="https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"&description=Fun OpenCV project that uses hand tracking module to implement the classic Rock-Paper-Scissor game. width="500" height="270" />
-</a>
+[![Stone Paper Scissor Game](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe.git)
+
+**Description:** Fun OpenCV project that uses hand tracking module to implement the classic Rock-Paper-Scissor game.
+
 
 <a href="https://github.com/vaibhavj-11/News-Daily-React.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=News-Daily-React&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
