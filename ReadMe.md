@@ -17,10 +17,10 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 ##  💻 Projects
 
 <a href="https://github.com/vaibhavj-11/stone-paper-scissor-game-opencv-python-mediapipe.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=stone-paper-scissor-game-opencv-python-mediapipe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" height="270" />
 
-  href="https://github.com/vaibhavj-11/News-Daily-React.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=News-Daily-React&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+<a href="https://github.com/vaibhavj-11/News-Daily-React.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=News-Daily-React&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" height="270" />
 </a>
 
 <a href="https://github.com/vaibhavj-11/Weather-app-using-html-css.git">
