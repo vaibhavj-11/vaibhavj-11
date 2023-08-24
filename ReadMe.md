@@ -24,7 +24,7 @@ Hi I am a Software Developer/Tech Enthusiast from India.
 </a>
 
 <a href="https://github.com/vaibhavj-11/Weather-app-using-html-css.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=Weather-app-using-html-css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavj-11&repo=Weather-app-using-html-css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" height="270" />
 </a>
 
 <a href="https://github.com/vaibhavj-11/Stock_Market_future_predicton_model.git">
